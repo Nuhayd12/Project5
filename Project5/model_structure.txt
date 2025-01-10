@@ -1,0 +1,18 @@
+Model: "transformer"
+__________________________________________________________________________________________________
+ Layer (type)                   Output Shape         Param #     Connected to                     
+==================================================================================================
+ encoder_inputs (InputLayer)    [(None, None)]       0           []                               
+                                                                                                  
+ decoder_inputs (InputLayer)    [(None, None)]       0           []                               
+                                                                                                  
+ model (Functional)             (None, None, 256)    4240896     ['encoder_inputs[0][0]']         
+                                                                                                  
+ model_1 (Functional)           (None, None, 15000)  8359576     ['decoder_inputs[0][0]',         
+                                                                  'model[0][0]']                  
+                                                                                                  
+==================================================================================================
+Total params: 12,600,472
+Trainable params: 12,600,472
+Non-trainable params: 0
+__________________________________________________________________________________________________
