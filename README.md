@@ -173,6 +173,8 @@ List of dependencies in the project:
 
 ---
 
+![Performance](performance_history.png)
+
 ## Future Work
 
 -Fine-tune the modl to itd fullest!
