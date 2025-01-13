@@ -1,1 +1,11 @@
-
+Python==3.8.20	 
+TensorFlow==2.11.0	  
+Keras==2.11.0	   
+Keras-NLP==0.4.0	     
+NumPy==1.21.6	 
+Pandas==1.4.3	
+Scikit-learn==1.1.2	
+Matplotlib==3.5.2	
+TQDM==4.64.0	
+NLTK==3.7
+Googletrans==4.0.0-rc1
