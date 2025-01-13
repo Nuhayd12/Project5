@@ -173,7 +173,7 @@ List of dependencies in the project:
 
 ---
 
-![Performance](performance_history.png)
+![Performance](Project5/performance_history.png)
 
 ## Future Work
 
